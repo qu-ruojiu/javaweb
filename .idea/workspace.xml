@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc3a357e-41ca-456b-9cc8-bf975d30b182" name="Default Changelist" comment="" />
+    <list default="true" id="cc3a357e-41ca-456b-9cc8-bf975d30b182" name="Default Changelist" comment="test1">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,11 +65,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594300629245</updated>
-      <workItem from="1594300632912" duration="69000" />
+      <workItem from="1594300632912" duration="562000" />
     </task>
+    <task id="LOCAL-00001" summary="test1">
+      <created>1594300785345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594300785345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1671" y="59" width="1080" height="632" key="DiffContextDialog" timestamp="1594301185825">
+      <screen x="-1920" y="-61" width="1536" height="832" />
+    </state>
+    <state x="-1671" y="59" width="1080" height="632" key="DiffContextDialog/-1920.-61.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1594301185825" />
     <state x="-1350" y="116" key="FileChooserDialogImpl" timestamp="1594300671834">
       <screen x="-1920" y="-61" width="1536" height="832" />
     </state>
@@ -77,5 +101,10 @@
       <screen x="-1920" y="-61" width="1536" height="832" />
     </state>
     <state x="-1629" y="19" key="SettingsEditor/-1920.-61.1536.832/0.0.1280.984@-1920.-61.1536.832" timestamp="1594300702230" />
+    <state x="318" y="200" key="Vcs.Push.Dialog.v2" timestamp="1594301149883">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="-1538" y="108" key="Vcs.Push.Dialog.v2/-1920.-61.1536.832/0.0.1280.984@-1920.-61.1536.832" timestamp="1594300821696" />
+    <state x="318" y="200" key="Vcs.Push.Dialog.v2/-1920.-61.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1594301149883" />
   </component>
 </project>
