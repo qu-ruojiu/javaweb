@@ -30,7 +30,6 @@ var snakeColor = "rgb(85, 177, 207)";  //蛇身颜色
 var headColor = "rgb(65, 126, 199)";  //蛇头颜色
 var foodColor = "rgb(240, 108, 79)";  //食物颜色
 
-var test;
 var scores;
 var grade;
 var speed;
