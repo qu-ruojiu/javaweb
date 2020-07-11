@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc3a357e-41ca-456b-9cc8-bf975d30b182" name="Default Changelist" comment="test1">
-      <change afterPath="$PROJECT_DIR$/web/area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/retro-snaker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/snanker.js" afterDir="false" />
+    <list default="true" id="cc3a357e-41ca-456b-9cc8-bf975d30b182" name="Default Changelist" comment="建立了基本文件，然后在index写入开始菜单">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/area.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/snanker.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/retro-snaker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,9 @@
     <option name="defaultAccountId" value="aedcd2a8-3090-4f9c-8f1f-cf21989d09df" />
   </component>
   <component name="ProjectId" id="1eS2N4in1GaeUIllouLu2IKy2Ll" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -100,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594300629245</updated>
       <workItem from="1594300632912" duration="872000" />
-      <workItem from="1594432222103" duration="993000" />
+      <workItem from="1594432222103" duration="1241000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1594300785345</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594301208638</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="建立了基本文件，然后在index写入开始菜单">
+      <created>1594434573952</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594434573952</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="建立了基本文件，然后在index写入开始菜单" />
+    <option name="LAST_COMMIT_MESSAGE" value="建立了基本文件，然后在index写入开始菜单" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1671" y="59" width="1080" height="632" key="DiffContextDialog" timestamp="1594301185825">
@@ -155,10 +163,10 @@
     </state>
     <state x="-1629" y="19" key="SettingsEditor/-1920.-61.1536.832/0.0.1280.984@-1920.-61.1536.832" timestamp="1594300702230" />
     <state x="243" y="95" key="SettingsEditor/-1920.-61.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1594432256870" />
-    <state x="318" y="200" key="Vcs.Push.Dialog.v2" timestamp="1594301335907">
+    <state x="318" y="200" key="Vcs.Push.Dialog.v2" timestamp="1594434588337">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="-1538" y="108" key="Vcs.Push.Dialog.v2/-1920.-61.1536.832/0.0.1280.984@-1920.-61.1536.832" timestamp="1594300821696" />
-    <state x="318" y="200" key="Vcs.Push.Dialog.v2/-1920.-61.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1594301335907" />
+    <state x="318" y="200" key="Vcs.Push.Dialog.v2/-1920.-61.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1594434588337" />
   </component>
 </project>
