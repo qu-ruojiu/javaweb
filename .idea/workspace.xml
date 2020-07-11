@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cc3a357e-41ca-456b-9cc8-bf975d30b182" name="Default Changelist" comment="test1">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/retro-snaker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/snanker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
@@ -10,6 +30,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +58,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\ruojiujiu\web" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.36" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.36" ALTERNATIVE_JRE_ENABLED="false">
@@ -65,7 +99,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594300629245</updated>
-      <workItem from="1594300632912" duration="562000" />
+      <workItem from="1594300632912" duration="872000" />
+      <workItem from="1594432222103" duration="993000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1594300785345</created>
@@ -74,11 +109,29 @@
       <option name="project" value="LOCAL" />
       <updated>1594300785345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test1">
+      <created>1594301208638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594301208638</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
@@ -97,14 +150,15 @@
       <screen x="-1920" y="-61" width="1536" height="832" />
     </state>
     <state x="-1332" y="254" width="401" height="316" key="Github.ShareDialog/-1920.-61.1536.832/0.0.1280.984@-1920.-61.1536.832" timestamp="1594300664371" />
-    <state x="-1629" y="19" key="SettingsEditor" timestamp="1594300702230">
-      <screen x="-1920" y="-61" width="1536" height="832" />
+    <state x="243" y="95" key="SettingsEditor" timestamp="1594432256870">
+      <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="-1629" y="19" key="SettingsEditor/-1920.-61.1536.832/0.0.1280.984@-1920.-61.1536.832" timestamp="1594300702230" />
-    <state x="318" y="200" key="Vcs.Push.Dialog.v2" timestamp="1594301149883">
+    <state x="243" y="95" key="SettingsEditor/-1920.-61.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1594432256870" />
+    <state x="318" y="200" key="Vcs.Push.Dialog.v2" timestamp="1594301335907">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="-1538" y="108" key="Vcs.Push.Dialog.v2/-1920.-61.1536.832/0.0.1280.984@-1920.-61.1536.832" timestamp="1594300821696" />
-    <state x="318" y="200" key="Vcs.Push.Dialog.v2/-1920.-61.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1594301149883" />
+    <state x="318" y="200" key="Vcs.Push.Dialog.v2/-1920.-61.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1594301335907" />
   </component>
 </project>
